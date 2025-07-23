@@ -14,7 +14,7 @@
 
 As part of Task 1, I was required to:
 1. Create a verified account on a trusted crypto exchange:
-   - [CoinSwitch Kuber](https://coinswitch.co/in/refer?tag=pFTWj&pro=true) **OR**
+   - [CoinSwitch Kuber](https://coinswitch.co/in/refer?tag=pFTWj&pro=true)
    - [BingX](https://bingx.pro/invite/ZDTVW2/)
 2. Explore the platform’s features like:
    - Wallet section
@@ -23,6 +23,13 @@ As part of Task 1, I was required to:
    - Spot/Futures markets (if applicable)
 
 ---
+
+## 🚀 Task Status
+
+✅ Task 1 – Completed  
+📅 Date: 23/07/2025
+
+----
 
 ## ✅ What I Did
 
