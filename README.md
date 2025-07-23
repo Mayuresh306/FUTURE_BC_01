@@ -64,6 +64,6 @@ As part of Task 1, I was required to:
 ## 🔗 LinkedIn Post
 
 📣 Shared my experience on LinkedIn:  
-[Insert LinkedIn post link here] 
+[[LinkedIn post link here]](https://www.linkedin.com/posts/mayureshwar-reddy-37a4a2342_futureinterns-blockchaininternship-cryptolearning-activity-7353794599879872512-HQLM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFXbiY4BD_ne47IWVA4Q_vpVDbbJD63-cbc) 
 
 ---
