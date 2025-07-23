@@ -26,7 +26,7 @@ As part of Task 1, I was required to:
 
 ## ✅ What I Did
 
-- I chose **[Insert Chosen Platform Name]** for this task.
+- I chose **BingX** for this task.
 - Completed the **KYC verification** process successfully.
 - Explored the following features:
   - 💼 **Wallet** – Viewed available balance and crypto assets
@@ -38,11 +38,10 @@ As part of Task 1, I was required to:
 
 ## 📸 Screenshots
 
-> 📸 Screenshots
-1.Verified KYC and account	
-2.Viewed Spot Market	
-3.Explored Order Types (Limit etc.)	
-4.Portfolio Overview	
+- 1.Verified KYC and account✅
+- 2.Viewed Spot Market✅
+- 3.Explored Order Types (Limit etc.)✅	
+- 4.Portfolio Overview✅
 
 ---
 
